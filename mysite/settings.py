@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     # third apps
     "django_bootstrap5",
     # local apps
-    "app",
+    "accounts" "app",
     "catube",
 ]
 
